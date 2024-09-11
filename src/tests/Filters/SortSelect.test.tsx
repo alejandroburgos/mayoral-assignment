@@ -8,7 +8,7 @@ describe('SortSelect', () => {
     const select = screen.getByRole('combobox');
     expect(select).toBeInTheDocument();
 
-    expect(screen.getByText('Sin ordenar')).toBeInTheDocument();
+    expect(screen.getByText('Todos los productos')).toBeInTheDocument();
     expect(screen.getByText('Ordenar por nombre (asc)')).toBeInTheDocument();
     expect(screen.getByText('Ordenar por nombre (desc)')).toBeInTheDocument();
     expect(screen.getByText('Ordenar por oferta')).toBeInTheDocument();

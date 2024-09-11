@@ -76,6 +76,7 @@ hr {
 }
 
 .current-price {
+  margin-top: 35px;
   color: #333;
 }
 
