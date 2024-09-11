@@ -1,7 +1,14 @@
-import { NextPage } from "next";
+import React from 'react';
+import { ProductList } from '../components/Products/ProductList';
 
-const HomePage: NextPage = () => {
-  return <div>Hello World!</div>;
+const HomePage: React.FC = () => {
+  return (
+    <div>
+      <main>
+        <ProductList />
+      </main>
+    </div>
+  );
 };
 
 export default HomePage;
