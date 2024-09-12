@@ -1,4 +1,4 @@
-😎 # Notas del proyecto 😎
+# Notas del proyecto 😎
 
 El proyecto no ha utilizado ninguna librería adicional que no estuviera ya presente en el repositorio original. Aunque personalmente habría preferido usar librerías como Tailwind CSS, Sass o algún conjunto de iconos para facilitar y optimizar el desarrollo, he decidido mantener el código lo más "vanilla" posible. Esto significa que todo el estilo y la funcionalidad se han implementado utilizando CSS puro y sin dependencias externas adicionales.
 
